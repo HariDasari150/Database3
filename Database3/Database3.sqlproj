@@ -65,5 +65,6 @@
     <Build Include="dbo\Tables\DatabaseLog.sql" />
     <Build Include="dbo\Tables\AWBuildVersion.sql" />
     <Build Include="dbo\Tables\Table1.sql" />
+    <Build Include="dbo\Tables\Workers.sql" />
   </ItemGroup>
 </Project>
