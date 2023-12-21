@@ -66,5 +66,6 @@
     <Build Include="dbo\Tables\AWBuildVersion.sql" />
     <Build Include="dbo\Tables\Table1.sql" />
     <Build Include="dbo\Tables\Workers.sql" />
+    <Build Include="dbo\Tables\Collegestaff.sql" />
   </ItemGroup>
 </Project>
